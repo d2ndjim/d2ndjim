@@ -11,20 +11,22 @@ I am a full time student at Microverse, learning Full Stack Web Development. I l
 
 ### More about me
 
+<img align='center' src="more.png" width="1000"/>
 
-```javascript
-const eliVillalejos = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["she", "her"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
-  Tailwind CSS, Material UI],
-  askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
-  challenge: "I am honing my React skills and picking up Vue",
-  funFacts: ['I have 2+ years of remote work experience with devs 
-  from all over the world', 
-  'my tiny chihuahua dog is ready to woof at the right offer']
-}
+```text
+    🔥 Editors:
+VS Code
+████████████████████████
+
+💻 Operating System:
+Mac OS
+█████████████████████████
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d2ndjim&theme=radical)](https://github.com/d2ndjim/github-readme-stats) ![Lekan's GitHub stats](https://github-readme-stats.vercel.app/api?username=d2ndjim&show_icons=true&theme=radical)
+
+
+
 
 <!--
 **d2ndjim/d2ndjim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
