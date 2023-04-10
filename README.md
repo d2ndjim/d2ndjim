@@ -23,8 +23,6 @@ Mac OS
 █████████████████████████
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d2ndjim&theme=radical)](https://github.com/d2ndjim/github-readme-stats) ![Lekan's GitHub stats](https://github-readme-stats.vercel.app/api?username=d2ndjim&show_icons=true&theme=radical)
-
 
 
 
